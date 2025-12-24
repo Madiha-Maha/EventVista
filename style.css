@@ -28,7 +28,7 @@ nav a:hover{
 }
 
 .banner{
-    background: url('https://wallpapercave.com/wp/wp7488275.jpg');
+    background: url('https://wallpapercave.com/wp/wp7488275.jpg') no-repeat center/cover;
     height: 300px;
     color: white;
     display: flex;
